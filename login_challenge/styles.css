@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(77, 57, 77);
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.login {
+    background-color: rgb(116, 95, 116);
+    margin: 50px;
+    margin-left: 42%;
+    margin-right: 35%;
+    padding: 10px;
+    width: 300px;
+    height: 220px;
+}
+
+#Button {
+    background-color: rgb(184, 91, 91);
+    width: 180px;
+    color: white;
+    border-radius: 50px 50px 50px 50px;
+    border: none;
+}
+
+.space {
+    margin: 10px;
+    height: 25px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color:  rgb(116, 95, 116);
+    position: fixed; /* Set the navbar to fixed position */
+    text-align: left;
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    height: 50px;
+}
